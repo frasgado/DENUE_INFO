@@ -5,6 +5,6 @@
 #### Contiene información en línea de millones de establecimientos en México.
 
 #### 1. Descarga de información.
-#### 2. Limpieza de información.
+#### 2. Limpieza / Transformación de información.
 ##### 3. Planteamientos.
 
