@@ -6,5 +6,5 @@
 
 #### 1. Descarga de información.
 #### 2. Limpieza / Transformación de información.
-##### 3. Planteamientos.
+#### 3. Planteamientos.
 
